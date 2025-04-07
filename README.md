@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bekhrux</h1>
+<h1 align="center">Hi 👋, I'm Bekhruz</h1>
 <h3 align="center">Student of Astana IT University (AITU)</h3>
 
 - 🌱 I’m currently learning **Spring boot , React JS , Vue JS**
